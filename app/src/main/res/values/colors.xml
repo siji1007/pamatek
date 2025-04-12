@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="active_background">#f3efef</color>
+    <color name="primary_color">#3A7B54</color>
+    <color name="colorActive">#FFFFFF</color> <!-- Active color -->
+    <color name="colorInactive">#B0BEC5</color> <!-- Inactive color -->
+    <color name="green">#4CAF50</color>
+    <color name="gray">#969696</color>
+
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732636557804",
+    "project_id": "pamatek-8585b",
+    "storage_bucket": "pamatek-8585b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732636557804:android:1b4ce2758f26077da510c9",
+        "android_client_info": {
+          "package_name": "com.example.pamatek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKssMMFyM3Nml4qvefK-MdrbIaEgUy1iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

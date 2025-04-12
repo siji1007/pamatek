@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">pamatek</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="pamahiin">Pamahiin</string>
+    <string name="profile">Profile</string>
+    <string name="first_sentence">Ang Mercedes, Camarines Norte ay isang bayan na dating bahagi ng Daet hanggang ito ay ginawang isang hiwalay na munisipalidad noong 1948, ipinangalan mula sa yumaong asawa ng dating gobernador na si Manuel Crescini.</string>
+    <string name="second_sentence">Kilala ito sa mayamang pangingisda at magagandang isla tulad ng Apuao Grande at Canimog, na naging pangunahing destinasyon ng mga turista sa rehiyon.</string>
+    <string name="description">Description:</string>
+    <string name="username">Username</string>
+    <string name="administrator">Administrator</string>
+    <string name="this_section_is_built_for_administrator">This section is built for administrator</string>
+    <string name="log_as_administrator">Log as Administrator</string>
+    <string name="update">Update</string>
+    <string name="edit_pamahiin">Edit Pamahiin</string>
+    <string name="i_tap_para_sa_karagdagang_detalye">I-tap para sa karagdagang detalye</string>
+    <string name="magdagdag">Magdagdag</string>
+    <string name="ilagay_ang_pamagat_dito">Ilagay ang pamagat dito</string>
+    <string name="ilagay_ang_paglalarawan_dito">Ilagay ang paglalarawan dito</string>
+    <string name="ilagay_ang_url_ng_larawan_dito">Ilagay ang URL ng larawan dito</string>
+    <string name="pangunahing_pahina">Pangunahing Pahina</string>
+    <string name="umpisa">Umpisa</string>
+    <string name="tagapangasiwa">Tagapangasiwa</string>
+    <string name="kasalukuyang_kinukuha_ang_impormasyon">Kasalukuyang kinukuha ang impormasyon..</string>
+    <string name="ang_bahaging_ito_ay_nakalaan_para_sa_administrator">Ang bahaging ito ay nakalaan para sa administrator.</string>
+    <string name="paniniwala">Paniniwala</string>
+    <string name="close">Close</string>
+    <string name="gabay_sa_paggamit_ng_app">GABAY SA PAGGAMIT NG APP</string>
+</resources>

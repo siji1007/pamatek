@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtPassword" type="id" />
+    <item name="edtConfirmPassword" type="id" />
+    <item name="btnSubmitCreateAccount" type="id" />
+</resources>

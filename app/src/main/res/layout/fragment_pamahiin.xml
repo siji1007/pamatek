@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+
+    tools:context=".PamahiinFragment">
+
+    <!-- Search Bar -->
+
+    <!-- Click to Show More -->
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/searchView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:iconifiedByDefault="false"
+        android:layout_marginTop="20dp"
+        android:queryHint="Maghanap ng Pamahiin..."
+        app:iconifiedByDefault="false" />
+
+
+    <TextView
+        android:id="@+id/showMoreText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/i_tap_para_sa_karagdagang_detalye"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:textColor="@android:color/darker_gray"
+        android:padding="8dp" />
+
+    <!-- Scrollable List -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        tools:listitem="@layout/item_pamahiin" />
+
+</LinearLayout>
